@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zronev/test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zronev/test-task/issues"
+  },
+  "homepage": "https://github.com/zronev/test-task#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
