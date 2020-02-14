@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-git clone https://https://github.com/zronev/test-task.git
+git clone https://github.com/zronev/test-task.git
 cd test-task
 npm install
 ```
